@@ -1,0 +1,14 @@
+{
+	"images" : [
+         {"name" : "zuanshi0" , "src" : "images/shuzi/0.png"},
+         {"name" : "zuanshi1" , "src" : "images/shuzi/1.png"},
+         {"name" : "zuanshi2" , "src" : "images/shuzi/2.png"},
+         {"name" : "zuanshi3" , "src" : "images/shuzi/3.png"},
+         {"name" : "an1" , "src" : "images/an1.png"},
+         {"name" : "an2" , "src" : "images/an2.png"},
+         {"name" : "an3" , "src" : "images/an3.png"},
+         {"name" : "an4" , "src" : "images/an4.png"},
+         {"name" : "an5" , "src" : "images/an5.png"},
+         {"name" : "an6" , "src" : "images/an6.png"}
+    ]
+}
